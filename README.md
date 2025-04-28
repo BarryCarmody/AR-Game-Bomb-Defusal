@@ -4,6 +4,8 @@ Minesweeper inspired augmented reality mobile game.
 Project completed 19th November 2024.
 
 Completed as part of COMP47930 AR & VR.
+
+My first experience working with Unity and Augmented Reality.
 # Images
 <p align="center">
   
